@@ -1,0 +1,43 @@
+brotlipy==0.7.0
+certifi @ file:///croot/certifi_1671487769961/work/certifi
+cffi @ file:///croot/cffi_1670423208954/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+conda==22.11.1
+conda-content-trust @ file:///tmp/abs_5952f1c8-355c-4855-ad2e-538535021ba5h26t22e5/croots/recipe/conda-content-trust_1658126371814/work
+conda-package-handling @ file:///croot/conda-package-handling_1666940373510/work
+cryptography @ file:///croot/cryptography_1665612644927/work
+ffmpeg-python==0.2.0
+filelock==3.9.0
+flit_core @ file:///opt/conda/conda-bld/flit-core_1644941570762/work/source/flit_core
+future==0.18.3
+huggingface-hub==0.11.1
+idna @ file:///croot/idna_1666125576474/work
+mkl-fft==1.3.1
+mkl-random @ file:///home/builder/ci_310/mkl_random_1641843545607/work
+mkl-service==2.4.0
+more-itertools==9.0.0
+numpy @ file:///croot/numpy_and_numpy_base_1672336185480/work
+packaging==23.0
+Pillow==9.3.0
+pluggy @ file:///tmp/build/80754af9/pluggy_1648024709248/work
+pycosat @ file:///croot/pycosat_1666805502580/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+PySocks @ file:///home/builder/ci_310/pysocks_1640793678128/work
+PyYAML==6.0
+regex==2022.10.31
+requests @ file:///opt/conda/conda-bld/requests_1657734628632/work
+ruamel.yaml @ file:///croot/ruamel.yaml_1666304550667/work
+ruamel.yaml.clib @ file:///croot/ruamel.yaml.clib_1666302247304/work
+semantic-version==2.10.0
+setuptools-rust==1.5.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tokenizers==0.13.2
+toolz @ file:///croot/toolz_1667464077321/work
+torch==1.13.1
+torchvision==0.14.1
+tqdm @ file:///opt/conda/conda-bld/tqdm_1664392687731/work
+transformers==4.25.1
+typing_extensions @ file:///croot/typing_extensions_1669924550328/work
+urllib3 @ file:///croot/urllib3_1670526988650/work
+whisper @ git+https://github.com/openai/whisper.git@f82bc59f5ea234d4b97fb2860842ed38519f7e65
